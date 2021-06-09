@@ -33,7 +33,6 @@ int main(int argc, char** argv) {
 			}
 		}
 	}
-	
 	cout << "\nQUANTIDADE DE NEGATIVOS = " << negativos << endl;
 	
 	int soma = 0;
