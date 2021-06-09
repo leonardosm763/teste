@@ -4,6 +4,8 @@ using namespace std;
 
 int main(int argc, char** argv) {
 	
+	//teste
+	
 	int N;
 	
 	cout << "Qual a ordem da matriz? ";
